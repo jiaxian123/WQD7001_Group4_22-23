@@ -1,0 +1,14 @@
+name: pds-ass
+title: pds-ass
+username:
+account: wqd7001-groupassignment-group4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8002780
+bundleId: 6716983
+url: https://wqd7001-groupassignment-group4.shinyapps.io/pds-ass/
+when: 1673343239.59502
+lastSyncTime: 1673343239.59503
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
